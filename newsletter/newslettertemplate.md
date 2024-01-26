@@ -1,45 +1,38 @@
-# ZecWeekly (Epsiode Number)
+# ZecWeekly igbo  (Episode78)
 
 Headline text
 
 ---
 
-Curated by "person who curated it" ([@theirhandle](https://twitter.com))
+Curated by "person who curated it" ([@theirhandle](https://x.com/UgochukwuOkeagu?t=lXExqIYgHkDhPkOZY9MRmA&s=09 ))
 
 ---
 
 #### Welcome to ZecWeekly
+zcash na-ebuga ụwa n'ọkwa ọhụrụ nke a na-akpọ zcash eze nke mkpụrụ ego nzuzo
 
-Intro text. High level explanation. 2-3 sentences.
 
----
 
-## Zcash Updates
 
-#### Protocol Updates
 
-[Description of update](zechub.xyz)
 
-#### Zcash Community Grants Updates
 
-[Description of update](zechub.xyz)
 
-#### Community Projects
 
-[Description of update](zechub.xyz)
+#### Akụkọ & Mgbasa ozi
 
-#### News & Media
+[Binance agaghị ehichapụ zcash ](https://twitter.com/ZecHub/status/1749131750339428563?t=6nnl3xFQPY7xA6YOtHAMiw&s=19
+)
+Ụlọ ọrụ na-achịkwa na-achọ ịchịkwa mmegharị ego na afọ dijitalụ, gụnyere ego crypto. Ọ dị mkpa ka ị mara akụkọ a iji mara ka ọ na-emetụta gị. 
+https://zcashesp.com/deslistado-de-criptomonedas-de-privacidad/
 
-[Description of update](zechub.xyz)
+https://twitter.com/ZecHub/status/1749131750339428563?t=6nnl3xFQPY7xA6YOtHAMiw&s=19
 
 ## Some Zcash Tweets
-
-[Link to tweet](zechub.xyz)
+obere akpa dị maka zcash
+[Link to tweet](https://twitter.com/zcash/status/17484598296795056129)
 
 ## Zeme of the Week
 
-[Link to meme](zechub.xyz)
 
-## Jobs in the Ecosystem
 
-- [Title, Organization](https://zfnd.org/careers/)
